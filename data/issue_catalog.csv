@@ -1,0 +1,11 @@
+issue_id,issue_category,root_cause,severity,friction_weight,severity_multiplier
+1,Delivery,Late delivery,High,3.5,1.6
+2,Delivery,Missed timeslot,Med,2.7,1.25
+3,Delivery,Damaged package,High,3.8,1.6
+4,Product,Missing item,High,3.6,1.6
+5,Product,Wrong item,Med,2.4,1.25
+6,Payment,Charged twice,High,3.9,1.6
+7,Payment,Payment failed,Med,2.5,1.25
+8,Account,Login issue,Low,1.2,1.0
+9,Account,Address change,Low,1.0,1.0
+10,Other,General question,Low,0.8,1.0
